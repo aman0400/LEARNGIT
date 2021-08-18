@@ -2,8 +2,8 @@ public class diff {
 
     public static void main() {
 
-        int a =5;
-        int b = 6;
+        int a = 6;
+        int b = 5;
 
         System.out.println("The diff is :",a-b);
         
